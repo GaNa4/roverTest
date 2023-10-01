@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="roverTest">
+    <output-path>$PROJECT_DIR$/out/artifacts/roverTest</output-path>
+    <root id="archive" name="roverTest.war" />
+  </artifact>
+</component>
